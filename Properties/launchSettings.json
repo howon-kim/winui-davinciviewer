@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DavinciViewer (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DavinciViewer (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -13,9 +13,11 @@
     <Grid>
         <NavigationView x:Name="NavView" SelectionChanged="NavView_SelectionChanged">
             <NavigationView.MenuItems>
+                <NavigationViewItem Icon="Mail" Content="Davinci" Tag="https://davinci.lgensol.com:18443/portal/index"/>
+
                 <NavigationViewItemHeader  Content="Coater Analysis"/>
-                <NavigationViewItem Icon="Mail" Content="Google" Tag="https://www.google.com"/>
-                <NavigationViewItem Icon="MailReply" Content="Microsoft" Tag="https://www.microsoft.com"/>
+                <NavigationViewItem Icon="Mail" Content="Google" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=8bf6db66-7053-4963-a4c8-aee95abf2088"/>
+                <NavigationViewItem Icon="MailReply" Content="Microsoft" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=cb279662-829d-4527-90d3-8e8ba7915c42"/>
                 
                 <NavigationViewItemHeader  Content="RollPress Analysis"/>
                 <NavigationViewItem Icon="Mail" Content="Google" Tag="https://www.google.com"/>
@@ -23,7 +25,7 @@
             </NavigationView.MenuItems>
 
             <!-- Content Area -->
-            <controls:WebView2 x:Name="WebViewControl" />
+            <Grid x:Name="ContentGrid"/>
         </NavigationView>
     </Grid>
 

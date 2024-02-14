@@ -14,14 +14,15 @@
         <NavigationView x:Name="NavView" SelectionChanged="NavView_SelectionChanged">
             <NavigationView.MenuItems>
                 <NavigationViewItem Icon="Mail" Content="Davinci" Tag="https://davinci.lgensol.com:18443/portal/index"/>
+                <NavigationViewItem Icon="Mail" Content="Scarlet and Grey Production Summary" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=524db824-3a20-4087-bcdb-dd5c59fb65b4"/>
 
                 <NavigationViewItemHeader  Content="Coater Analysis"/>
-                <NavigationViewItem Icon="Mail" Content="Google" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=8bf6db66-7053-4963-a4c8-aee95abf2088"/>
-                <NavigationViewItem Icon="MailReply" Content="Microsoft" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=cb279662-829d-4527-90d3-8e8ba7915c42"/>
+                <NavigationViewItem Icon="Mail" Content="Insulation Island Analysis" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=91db92dc-00f0-43ae-a64e-1d706edf065d"/>
                 
-                <NavigationViewItemHeader  Content="RollPress Analysis"/>
-                <NavigationViewItem Icon="Mail" Content="Google" Tag="https://www.google.com"/>
-                <NavigationViewItem Icon="MailReply" Content="Microsoft" Tag="https://www.microsoft.com"/>
+                <NavigationViewItemHeader  Content="NND Analysis"/>
+                <NavigationViewItem Icon="Mail" Content="Production Summary NND" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=2e7465bb-33a4-4ab4-a991-7631a69bf88c"/>
+                <NavigationViewItem Icon="MailReply" Content="NND In-Line Vision Data Analysis" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=1ea824b6-b666-40c9-a4c9-f0d8eaf3b4a0"/>
+                <NavigationViewItem Icon="MailReply" Content="Splice Area Observations" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=cb279662-829d-4527-90d3-8e8ba7915c42"/>
             </NavigationView.MenuItems>
 
             <!-- Content Area -->

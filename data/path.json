@@ -1,0 +1,24 @@
+{
+    "Workspace": [
+      {
+        "Name": "Splice Area Observations",
+        "URL": "https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=cb279662-829d-4527-90d3-8e8ba7915c42"
+      },
+      {
+        "Name": "NND In-Line Vision Data Analysis",
+        "URL": "https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=1ea824b6-b666-40c9-a4c9-f0d8eaf3b4a0"
+      },
+      {
+        "Name": "Production Summary NND",
+        "URL": "https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=2e7465bb-33a4-4ab4-a991-7631a69bf88c"
+      },
+      {
+        "Name": "Scarlet & Grey Production Summary",
+        "URL": "https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=524db824-3a20-4087-bcdb-dd5c59fb65b4"
+      },
+      {
+        "Name": "Insulation Island Analysis",
+        "URL": "https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=91db92dc-00f0-43ae-a64e-1d706edf065d"
+      }
+    ]
+  }

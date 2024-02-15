@@ -14,6 +14,7 @@
         <NavigationView x:Name="NavView" SelectionChanged="NavView_SelectionChanged">
             <NavigationView.MenuItems>
                 <NavigationViewItem Icon="Mail" Content="Davinci" Tag="https://davinci.lgensol.com:18443/portal/index"/>
+                <!--
                 <NavigationViewItem Icon="Mail" Content="Scarlet and Grey Production Summary" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=524db824-3a20-4087-bcdb-dd5c59fb65b4"/>
 
                 <NavigationViewItemHeader  Content="Coater Analysis"/>
@@ -22,7 +23,8 @@
                 <NavigationViewItemHeader  Content="NND Analysis"/>
                 <NavigationViewItem Icon="Mail" Content="Production Summary NND" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=2e7465bb-33a4-4ab4-a991-7631a69bf88c"/>
                 <NavigationViewItem Icon="MailReply" Content="NND In-Line Vision Data Analysis" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=1ea824b6-b666-40c9-a4c9-f0d8eaf3b4a0"/>
-                <NavigationViewItem Icon="MailReply" Content="Splice Area Observations" Tag="https://davinci.lgensol.com:18443/portal/sfLogin?rurl=http://spotfireuoh.lgensol.com/spotfire/wp/OpenAnalysis?file=cb279662-829d-4527-90d3-8e8ba7915c42"/>
+                <NavigationViewItem Icon="MailReply" Content="Splice Area Observations" Tag="https://google.com"/>
+                -->
             </NavigationView.MenuItems>
 
             <!-- Content Area -->
